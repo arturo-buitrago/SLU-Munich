@@ -7,11 +7,6 @@
 - name: Actividades
   path: actividades.html
   section_id: actividades
-  children:
-    - name: Eventos
-      path: portfolio.html
-    - name: Orientación
-      path: portfolio-item.html
 - name: Contacto
   path: contact.html
   section_id: contact
